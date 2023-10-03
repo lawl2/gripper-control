@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<data>
+  <loop>false</loop>
+  <repeat_times>1</repeat_times>
+  <repeat_period>500</repeat_period>
+  <frames_list>
+    <frame name="D0_LOW">
+      <payload>7E001017010013A20041531346FFFE02443004CE</payload>
+    </frame>
+    <frame name="D1_LOW">
+      <payload>7E001017010013A20041531346FFFE02443104CD</payload>
+    </frame>
+    <frame name="D2_LOW">
+      <payload>7E001017010013A20041531346FFFE02443204CC</payload>
+    </frame>
+    <frame name="D3_LOW">
+      <payload>7E001017010013A20041531346FFFE02443304CB</payload>
+    </frame>
+  </frames_list>
+</data>
